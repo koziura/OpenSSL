@@ -156,3 +156,7 @@ Written with [StackEdit](https://stackedit.io/) and then a lot of help from @cli
 Updated 2019-07-20 to fix formatting and typos.
 
 Copoyright (C) 2016, 2019 [MCCI Corporation](https://mcci.com). Written by Terry Moore, MCCI. License: [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+
+## #ifndef ETIMEDOUT
+## #define ETIMEDOUT 9938
+## #endif
